@@ -1,4 +1,2 @@
-- 👋 Hi everyone, my name is Yuan Zhaoliang. I am currently a master student major in operations research in Univisity of Southern California. 
-- My research interest 💞️  is combinatorial optimization, focus on some local optimization alogoritms and approximation algorithms in TravelSalesman Problem(TSP).
-- I will post some problem-specific or general algorithms for TSP in the future. 
-- If you are interested in my work or find any problem, maybe you can send me a 📫 to zhaolian@usc.edu. 
+- 👋 Hi everyone, my name is Yuan Zhaoliang. I am currently a PhD student major in Artificial Intelligent at The Chinese University of Hong Kong (Shenzhen). 
+- If you are interested in my work or find any problem, maybe you can send me a 📫 to 225080014@link.cuhk.edu.cn. 
